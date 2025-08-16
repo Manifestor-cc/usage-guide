@@ -5,9 +5,6 @@
   <a href="https://docusaurus.io" target="_blank">
     <img src="https://github.com/PenPow/Badges/raw/refs/heads/main/src/assets/built-with/docusaurus/compact.svg" alt="Built with Docusaurus">
   </a>
-  <a href="https://ko-fi.com/sobakintech" target="_blank">
-    <img src="https://github.com/PenPow/Badges/raw/refs/heads/main/src/assets/donate/kofi-singular-alt/compact.svg" alt="Donate on Ko-fi">
-  </a>
 </h1>
 
 The official usage guide for Manifestor.cc. Previously known as the SteamTools Guide.
