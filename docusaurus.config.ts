@@ -36,6 +36,17 @@ const config: Config = {
     locales: ['en'],
   },
 
+  scripts: [{
+    src: 'https://analytics.sobakintech.xyz/js/script.file-downloads.hash.outbound-links.js',
+    defer: true,
+    'data-domain': 'guide.manifestor.cc'
+  }],
+  headTags: [{
+    tagName: 'script',
+    attributes: {},
+    innerHTML: 'window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }'
+  }],
+
   presets: [
     [
       'classic',
