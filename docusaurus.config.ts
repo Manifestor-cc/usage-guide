@@ -72,7 +72,7 @@ const config: Config = {
     // image: '',
     colorMode: {
       defaultMode: 'dark',
-      disableSwitch: false,
+      disableSwitch: true,
       respectPrefersColorScheme: false,
     },
     navbar: {
@@ -82,11 +82,6 @@ const config: Config = {
         src: 'img/logo.png',
       },
       items: [
-        {
-          href: 'https://github.com/sobakintech/manifestor.cc-guide',
-          label: 'GitHub',
-          position: 'right',
-        },
         {
           href: 'https://discord.com/invite/6nmwCg7nzd',
           label: 'Discord Server',
