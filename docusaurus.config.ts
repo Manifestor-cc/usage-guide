@@ -56,7 +56,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/docs/',
+            'https://github.com/sobakintech/manifestor.cc-guide/tree/main/',
           routeBasePath: '/', // Docs-only mode
         },
         blog: false, // Disable blog for docs-only mode
