@@ -32,7 +32,7 @@ The generator does not have every single game that's available on Steam. There i
 No, but we’re considering adding a premium plan that would also have some other cool perks
 
 ### The generation is taking forever!
-That happens when your game you're donwloading has a lot of DLC's
+That happens when your game you're downloading has a lot of DLC's
 
 ### Is Manifestor.cc open-source?
 No. The only part of Manifestor.cc that's open-source is the Usage Guide (which you're on right now!)
