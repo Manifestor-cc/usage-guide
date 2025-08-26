@@ -10,4 +10,4 @@
 The official usage guide for Manifestor.cc. Previously known as the SteamTools Guide.
 
 # Contributions
-Contributions are welcome! You can find the **Edit this page** button on every page.
+For contributing details see [CONTRIBUTING](https://github.com/sobakintech/manifestor.cc-guide/blob/main/CONTRIBUTING.md)
