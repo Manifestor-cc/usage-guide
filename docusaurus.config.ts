@@ -86,6 +86,11 @@ const config: Config = {
           href: 'https://discord.com/invite/6nmwCg7nzd',
           label: 'Discord Server',
           position: 'left'
+        },
+        {
+          href: 'https://github.com/sobakintech/manifestor.cc-guide',
+          label: 'GitHub',
+          position: 'left'
         }
       ],
     },
