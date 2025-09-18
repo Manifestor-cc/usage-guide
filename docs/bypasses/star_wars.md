@@ -7,7 +7,11 @@ description: ""
 
 # Star Wars Games
 
-### 1. [Download](https://i.sobakintech.xyz/share/SANziKGq) the bypass files for your desired game
+### 1. Download the bypass files for your desired game
+| Name | Download |
+|------|----------|
+| Jedi: Fallen Order | [Download](https://pixeldrain.com/u/NnnHpdju) |
+| Jedi: Survivor | [Download](https://pixeldrain.com/u/X6JPATK3) |
 
 ### 2. Drag the files into the game’s folder
 Open the game’s folder (How to open Steam game's folder?), then open the the .zip file you’ve downloaded. Select the folder inside of the .zip file and drag it into the game’s folder. When a window like this pops up:
