@@ -22,12 +22,14 @@ Paste `uplay_r1_loader64.dll` in the search field.
 
 <details>
 <summary>If it appears in the list</summary>
+
 Like so:
 ![](images/c02c5cd7-db96-443e-abbd-f4916db7a203.png)
 **Good news!** You can continue following the steps.
 </details>
 <details>
 <summary>If it says No matching records found</summary>
+
 Sadly, the bypass won’t work for your game.
 </details>
 
