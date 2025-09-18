@@ -8,5 +8,5 @@ description: "🚧 Work in progress 🚧"
 # EA Games
 
 :::info
-This page is under construction. If you can, help us speed up the process!
+This page is under construction.
 :::

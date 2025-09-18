@@ -12,9 +12,6 @@ It’s a tool developed by chinese hackers used for injecting Lua & Manifest fil
 ### What are the Manifest & Lua files for?
 They are files that contain game license data.
 
-### Can I add DLC's to a game I already own (bought)?
-Not yet.
-
 ### Can my Steam account get banned?
 No. The games you add are fully client-side, so you can't get banned.
 

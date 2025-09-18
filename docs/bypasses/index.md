@@ -9,9 +9,9 @@ pagination_next: null
 Some games have their own anti-piracy protection, but luckily we have bypasses for those!
 
 :::warning
-We got these bypasses from a third party source, we did not make them!
+We got these bypasses from third party sources, we did not make them! Basic virus checks were ran on each one, but please use them cautiously - do not disable your antivirus if it detects something!
 
-Only a small part of these were tested. Basic virus checks were ran on each one, but please use them cautiously - do not disable your antivirus if it detects something!
+None of these were tested by us, and we will not provide support for these (In the Discord server).
 :::
 
 ```mdx-code-block

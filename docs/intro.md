@@ -10,7 +10,7 @@ If you want to get Steam games for free without using shady websites, you’ve c
 
 This guide will teach you how to:
 
-- Install and use SteamTools (What’s SteamTools?)
+- Install and use SteamTools ([What’s SteamTools?](/faq#whats-steamtools))
 - Play multiplayer games
 - Remove games from your library that were installed with SteamTools
 - Bypass anti-piracy protections on EA, Rockstar, Ubisoft, Star Wars, Far Cry, etc.
