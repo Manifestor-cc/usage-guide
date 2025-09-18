@@ -12,7 +12,7 @@ description: ""
 ### 2. Click on RDR II in the sidebar
 
 ### 3. Select the game folder
-Paste the game folder’s path in the Game folder field (How to open Steam game's folder?)
+Paste the game folder’s path in the Game folder field ([How to open Steam game's folder?](/extras/opening_a_steam_games_folder))
 
 ### 4. Click Install modules
 

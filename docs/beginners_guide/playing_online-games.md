@@ -19,7 +19,7 @@ When you’ve found your game, scroll down until you see the Download buttons. C
 If you haven’t already, [download and install WinRAR](https://www.win-rar.com/postdownload.html)
 
 ### 4. Drag the files into the game’s folder
-Open the game’s folder (How to open Steam game's folder?), then open the the .rar file you’ve downloaded. The password is `online-fix.me`. Select all of the files inside of the .rar file and drag them into the game’s folder. When a window like this pops up:
+Open the game’s folder ([How to open Steam game's folder?](/extras/opening_a_steam_games_folder)), then open the the .rar file you’ve downloaded. The password is `online-fix.me`. Select all of the files inside of the .rar file and drag them into the game’s folder. When a window like this pops up:
 
 ![](images/c3956f7a-c018-448b-9e02-973d28ed04c0.png)
 

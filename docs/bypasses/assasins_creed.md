@@ -28,7 +28,7 @@ To bypass the download & speed limit for pixeldrain, use [this tool](https://pix
 | Assassin's Creed II | [Download](https://pixeldrain.com/u/VBeDwhPu) |
 
 ### 2. Drag the files into the game’s folder
-Open the game’s folder (How to open Steam game's folder?), then open the the .zip file you’ve downloaded. Select all of the files and drag them into the game’s folder. When a window like this pops up:
+Open the game’s folder ([How to open Steam game's folder?](/extras/opening_a_steam_games_folder)), then open the the .zip file you’ve downloaded. Select all of the files and drag them into the game’s folder. When a window like this pops up:
 
 ![](images/c3956f7a-c018-448b-9e02-973d28ed04c0-1.png)
 
