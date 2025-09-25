@@ -20,13 +20,13 @@ This guide will teach you how to:
   {
     type: 'link',
     href: '/faq',
-    label: 'FAQ',
-    description: 'Common questions and answers'
+    label: 'Frequently Asked Questions',
+    description: 'Answers to common questions'
   },
   {
     type: 'link', 
     href: '/beginners_guide',
     label: 'Beginner\'s Guide',
-    description: 'Get started with Manifestor.cc'
+    description: 'Get started with Manifestor.cc (and SteamTools)'
   }
 ]} />

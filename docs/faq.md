@@ -3,7 +3,7 @@ sidebar_position: 2
 pagination_next: null
 ---
 
-# FAQ
+# Frequently Asked Questions
 
 ## General
 ### What's SteamTools?
