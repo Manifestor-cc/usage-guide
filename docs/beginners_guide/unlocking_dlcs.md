@@ -1,6 +1,7 @@
 ---
 sidebar_position: 5
 pagination_next: null
+description: ""
 ---
 
 # Unlocking DLCs

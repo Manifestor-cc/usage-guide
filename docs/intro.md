@@ -1,12 +1,13 @@
 ---
 sidebar_position: 1
 slug: /
+sidebar_label: Introduction
+pagination_next: null
 ---
 
-# Introduction
-## Welcome to the Manifestor.cc Guide!
+import DocCardList from '@theme/DocCardList';
 
-If you want to get Steam games for free without using shady websites, you’ve came to the right place.
+# Welcome to the Manifestor.cc Guide!
 
 This guide will teach you how to:
 
@@ -14,3 +15,18 @@ This guide will teach you how to:
 - Play multiplayer games
 - Remove games from your library that were installed with SteamTools
 - Bypass anti-piracy protections on EA, Rockstar, Ubisoft, Star Wars, Far Cry, etc.
+
+<DocCardList items={[
+  {
+    type: 'link',
+    href: '/faq',
+    label: 'FAQ',
+    description: 'Common questions and answers'
+  },
+  {
+    type: 'link', 
+    href: '/beginners_guide',
+    label: 'Beginner\'s Guide',
+    description: 'Get started with Manifestor.cc'
+  }
+]} />
