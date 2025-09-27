@@ -13,7 +13,7 @@ It’s a tool developed by chinese hackers used for injecting Lua & Manifest fil
 They are files that contain game license data.
 
 ### Can my Steam account get banned?
-No. The games you add are fully client-side, so you can't get banned.
+No. The games you add with SteamTools are fully client-side, and are not visible to Steam servers.
 
 ### How to fix the “Content Configuration Unavailable” error?
 Go to `C:\Program Files (x86)\Steam\appcache` and delete the `appinfo.vdf` file.
