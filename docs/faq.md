@@ -9,7 +9,7 @@ pagination_next: null
 ### What's SteamTools?
 It’s a tool developed by chinese hackers used for injecting Lua & Manifest files into Steam.
 
-### What are the Manifest & Lua files for?
+### What are the Lua & Manifest files for?
 They are files that contain game license data.
 
 ### Can my Steam account get banned?
