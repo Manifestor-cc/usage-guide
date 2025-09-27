@@ -20,16 +20,7 @@ Go to `C:\Program Files (x86)\Steam\appcache` and delete the `appinfo.vdf` file.
 
 ## Generator (Manifestor.cc)
 ### How long does it take for a new game to become available in the generator?
-New (popular) games are usually added to the database within 4-9 days.
-
-### What does “Manifest not found” mean? I can’t download my game!
-The generator does not have every single game that's available on Steam. There is a database of license data that the generator uses to create the files that SteamTools can inject.
-
-### Can I hide ads from the website?
-No, but we’re considering adding a premium plan that would also have some other cool perks
+New popular games are usually added to the database within 6-18 days.
 
 ### The generation is taking forever!
-That happens when your game you're downloading has a lot of DLC's
-
-### Is Manifestor.cc open-source?
-No. The only part of Manifestor.cc that's open-source is the Usage Guide (which you're on right now!)
+That happens when your game you're downloading has a lot of DLCs
