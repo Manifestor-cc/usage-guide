@@ -6,7 +6,11 @@ description: ""
 # Removing a game
 If you want to remove a game from your library installed with SteamTools, you have to use our Steam Games Remover.
 
-### 1. [Download](https://rrgxutn24w.ufs.sh/f/F046R6PaqkdePfyvEDM05YARl2TjWLkJsm6df3wtXivEyB78), extract and open the remover
+### 1. [Download](https://github.com/Manifestor-cc/game-remover/releases/latest/download/game-remover.exe), extract and open the remover
+
+:::note
+**The Game Remover is open-source!** [Check it out on GitHub](https://github.com/Manifestor-cc/game-remover/)
+:::
 
 ### 2. Click Browse and select Steam directory
 When you click Browse, it should select it automatically, you just need to click Select Folder.
