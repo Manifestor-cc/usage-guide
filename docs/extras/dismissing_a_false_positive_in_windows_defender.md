@@ -12,7 +12,7 @@ When you start a game with Online-Fix installed for the first time, it might det
 Start the game which has Online-Fix installed, and wait for the Windows Defender pop-up to appear.
 
 :::note
-If the pop-up doesn’t appear, open Windows Security from the Start menu, open Virus & threat protection, then Protection history and select the top item.
+If the pop-up doesn't appear, open Windows Security from the Start menu, open Virus & threat protection, then Protection history and select the top item.
 :::
 
 ### 2. Click on the Windows Defender pop-up
@@ -28,4 +28,4 @@ Click on Actions > Allow on device. It will ask for administrator permissions ag
 Just to make sure everything will work.
 
 ### Congrats!
-If you’ve followed all of the steps correctly, you should now have prevented Windows Defender from removing the detected file.
+If you've followed all of the steps correctly, you should now have prevented Windows Defender from removing the detected file.

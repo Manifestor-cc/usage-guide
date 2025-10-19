@@ -11,10 +11,14 @@ import DocCardList from '@theme/DocCardList';
 
 This guide will teach you how to:
 
-- Install and use SteamTools ([What’s SteamTools?](/faq#whats-steamtools))
+- Install and use SteamTools
 - Play multiplayer games
 - Remove games from your library that were installed with SteamTools
 - Bypass anti-piracy protections on EA, Rockstar, Ubisoft, Star Wars, Far Cry, etc.
+
+:::tip
+If you need any help, [join our Discord server](https://discord.gg/manifestorcc)
+:::
 
 <DocCardList items={[
   {
@@ -28,5 +32,11 @@ This guide will teach you how to:
     href: '/beginners_guide',
     label: 'Beginner\'s Guide',
     description: 'Get started with Manifestor.cc (and SteamTools)'
+  },
+  {
+    type: 'link',
+    href: '/bypasses',
+    label: 'Bypasses',
+    description: 'Bypasses for anti-piracy protections'
   }
 ]} />

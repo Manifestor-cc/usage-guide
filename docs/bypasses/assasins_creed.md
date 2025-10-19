@@ -5,7 +5,7 @@ pagination_next: null
 description: ""
 ---
 
-# Assasin’s Creed Games
+# Assasin's Creed Games
 
 ### 1. Download the bypass files for your desired game
 :::tip
@@ -27,16 +27,16 @@ To bypass the download & speed limit for pixeldrain, use [this tool](https://pix
 | Assassin's Creed: Brotherhood | [Download](https://pixeldrain.com/u/XmRFxU3G) |
 | Assassin's Creed II | [Download](https://pixeldrain.com/u/VBeDwhPu) |
 
-### 2. Drag the files into the game’s folder
-Open the game’s folder ([How to open Steam game's folder?](/extras/opening_a_steam_games_folder)), then open the the .zip file you’ve downloaded. Select all of the files and drag them into the game’s folder. When a window like this pops up:
+### 2. Drag the files into the game's folder
+Open the game's folder ([How to open Steam game's folder?](/extras/opening_a_steam_games_folder)), then open the the .zip file you've downloaded. Select all of the files and drag them into the game's folder. When a window like this pops up:
 
 ![](images/c3956f7a-c018-448b-9e02-973d28ed04c0-1.png)
 
 Click **Replace the file in the destination**. It could appear multiple times.
 
 ### Congrats!
-If you’ve followed all of the steps correctly, you should be able to play your desired Assasin’s Creed game.
+If you've followed all of the steps correctly, you should be able to play your desired Assasin's Creed game.
 
-:::note
+:::important
 For some games, you may need to start them directly via the .exe, not trough the Steam Library.
 :::

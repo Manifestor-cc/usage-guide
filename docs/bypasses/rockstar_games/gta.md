@@ -12,7 +12,7 @@ description: ""
 ### 2. Click on GTA IV or GTA V in the sidebar
 
 ### 3. Select the game folder
-Paste the game folder’s path in the Game folder field ([How to open Steam game's folder?](/extras/opening_a_steam_games_folder))
+Paste the game folder's path in the Game folder field ([How to open Steam game's folder?](/extras/opening_a_steam_games_folder))
 
 ### 4. Click Install modules
 
@@ -20,7 +20,7 @@ Paste the game folder’s path in the Game folder field ([How to open Steam game
 Right click on it -> Properties -> at the bottom in the Launch Options field add `-nobattleye`
 
 ### Congrats!
-If you’ve followed all of the steps correctly, you should be able to play GTA IV or GTA V.
+If you've followed all of the steps correctly, you should be able to play GTA IV or GTA V.
 
 :::important
 **To play the game:**

@@ -6,8 +6,16 @@ description: ""
 
 # Installing SteamTools
 
-:::info
-SteamTools is only available for Windows.
+# Windows
+[Download the installer](https://steamtools.net/res/st-setup-1.8.17r2.exe), run it, and go through all of the steps
+
+# Linux
+:::warning
+**SteamTools isn't officially supported on Linux.** We can't help with any issues you have while using it on Linux.
 :::
 
-[Download the installer](https://www.steamtools.net/res/st-setup-1.8.16.exe), run it, and go through all of the steps
+:::info
+The Linux SteamTools installation guide is a WIP.
+:::
+
+Use [PortProton](https://flathub.org/en/apps/ru.linux_gaming.PortProton) to run SteamTools & Steam

@@ -12,7 +12,7 @@ description: ""
 ### 2. In the side panel, click on Depots
 ![](images/ec511dbf-7a11-4a7f-a7fd-6340a12e7fa9.png)
 
-### 3. Click on the ID of the configuration that’s named as the game
+### 3. Click on the ID of the configuration that's named as the game
 Example for The Crew 2:
 
 ![](images/cfb54567-6acf-4896-b242-ea065956fded.png)
@@ -30,17 +30,17 @@ Like so:
 <details>
 <summary>If it says No matching records found</summary>
 
-Sadly, the bypass won’t work for your game.
+Sadly, the bypass won't work for your game.
 </details>
 
 ### 5. [Download](https://files.catbox.moe/bidh37.zip) the patched .dll file
 
-### 6. Drag the file into the game’s folder
-Open the game’s folder ([How to open Steam game's folder?](/extras/opening_a_steam_games_folder)), and drag the file you downloaded into the game’s folder. When a window like this pops up:
+### 6. Drag the file into the game's folder
+Open the game's folder ([How to open Steam game's folder?](/extras/opening_a_steam_games_folder)), and drag the file you downloaded into the game's folder. When a window like this pops up:
 
 ![](images/c3956f7a-c018-448b-9e02-973d28ed04c0-1.png)
 
 Click **Replace the file in the destination**.
 
 ### Congrats!
-If you’ve followed all of the steps correctly, you should be able to play your Ubisoft game.
+If you've followed all of the steps correctly, you should be able to play your Ubisoft game.

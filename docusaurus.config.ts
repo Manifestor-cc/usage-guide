@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Manifestor.cc Guide',
-  tagline: 'Manifestor.cc Guide',
+  title: 'Manifestor.cc Usage Guide',
+  tagline: 'Manifestor.cc Usage Guide',
   favicon: 'img/logo.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -22,8 +22,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'sobakintech', // Usually your GitHub org/user name.
-  projectName: 'manifestor.cc-guide', // Usually your repo name.
+  organizationName: 'Manifestor-cc', // Usually your GitHub org/user name.
+  projectName: 'usage-guide', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -56,7 +56,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/sobakintech/manifestor.cc-guide/tree/main/',
+            'https://github.com/Manifestor-cc/usage-guide/tree/main/',
           routeBasePath: '/', // Docs-only mode
         },
         blog: false, // Disable blog for docs-only mode
@@ -76,21 +76,35 @@ const config: Config = {
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: 'Manifestor.cc Guide',
+      title: 'Manifestor.cc Usage Guide',
       logo: {
-        alt: 'Manifestor.cc Logo',
         src: 'img/logo.png',
       },
       items: [
         {
-          href: 'https://discord.com/invite/6nmwCg7nzd',
-          label: 'Discord Server',
+          to: '/faq',
+          label: 'FAQ',
           position: 'left'
         },
         {
-          href: 'https://github.com/sobakintech/manifestor.cc-guide',
-          label: 'GitHub',
+          href: 'https://status.manifestor.cc',
+          label: 'Status',
           position: 'left'
+        },
+        {
+          href: 'https://bsky.app/profile/manifestor.cc',
+          position: 'right',
+          className: 'header-bluesky-link'
+        },
+        {
+          href: 'https://discord.gg/manifestorcc',
+          position: 'right',
+          className: 'header-discord-link'
+        },
+        {
+          href: 'https://github.com/Manifestor-cc/usage-guide',
+          position: 'right',
+          className: 'header-github-link'
         }
       ],
     },

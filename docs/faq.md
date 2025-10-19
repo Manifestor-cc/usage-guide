@@ -1,26 +1,51 @@
 ---
 sidebar_position: 2
 pagination_next: null
+sidebar_class_name: hidden
 ---
 
 # Frequently Asked Questions
 
 ## General
-### What's SteamTools?
-It’s a tool developed by chinese hackers used for injecting Lua & Manifest files into Steam.
+<details>
+<summary>What's SteamTools?</summary>
 
-### What are the Lua & Manifest files for?
+It's a tool developed by chinese hackers used for injecting Lua & Manifest files into Steam.
+
+</details>
+
+<details>
+<summary>What are the Lua & Manifest files for?</summary>
+
 They are files that contain game license data.
 
-### Can my Steam account get banned?
+</details>
+
+<details>
+<summary>Can my Steam account get banned?</summary>
+
 No. The games you add with SteamTools are fully client-side, and are not visible to Steam servers.
 
-### How to fix the “Content Configuration Unavailable” error?
+</details>
+
+<details>
+<summary>How to fix the “Content Configuration Unavailable” error?</summary>
+
 Go to `C:\Program Files (x86)\Steam\appcache` and delete the `appinfo.vdf` file.
 
-## Generator (Manifestor.cc)
-### How long does it take for a new game to become available in the generator?
-New popular games are usually added to the database within 6-18 days.
+</details>
 
-### The generation is taking forever!
-That happens when your game you're downloading has a lot of DLCs
+## Generator (Manifestor.cc)
+<details>
+<summary>How long does it take for a new game to become available in the generator?</summary>
+
+New popular games are usually added to the database within ~6-18 days.
+
+</details>
+
+<details>
+<summary>The generation is taking forever!</summary>
+
+That happens when the game you're downloading has a lot of DLCs
+
+</details>
