@@ -36,12 +36,6 @@ Go to `C:\Program Files (x86)\Steam\appcache` and delete the `appinfo.vdf` file.
 </details>
 
 ## Generator (Manifestor.cc)
-<details>
-<summary>How long does it take for a new game to become available in the generator?</summary>
-
-New popular games are usually added to the database within ~6-18 days.
-
-</details>
 
 <details>
 <summary>The generation is taking forever!</summary>
