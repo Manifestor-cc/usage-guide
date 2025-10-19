@@ -58,6 +58,7 @@ const config: Config = {
           editUrl:
             'https://github.com/Manifestor-cc/usage-guide/tree/main/',
           routeBasePath: '/', // Docs-only mode
+          showLastUpdateTime: true
         },
         blog: false, // Disable blog for docs-only mode
         theme: {
