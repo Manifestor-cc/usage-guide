@@ -5,7 +5,7 @@ description: ""
 ---
 
 # Unlocking DLCs
-If you want to unlock DLCs for your games, follow these steps carefully.
+If you want to unlock DLCs for your games, you have to use CreamInstaller.
 
 ### 1. [Download](https://creaminstaller.com/wp-content/uploads/2025/04/CreamInstaller.zip), extract, and run CreamInstaller
 Once launched, it will automatically scan your Steam library and list all of your available games.
@@ -16,7 +16,7 @@ After it's done caching, you’ll see a list of all available DLCs for your sele
 ### 3. Choose your desired DLCs from the list and click **Generate & Install**
 Wait for the process to complete.
 
-:::info
+:::note
 Your DLCs will **not** appear inside Steam. They will only show up **in-game**.
 :::
 
