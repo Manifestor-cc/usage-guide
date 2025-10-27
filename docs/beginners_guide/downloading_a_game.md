@@ -29,28 +29,7 @@ Right click it, and select **Display Floating Window**.
 
 </details>
 
-### 3. Unzip & drag the files onto the floating icon
-
-Select one that applies to you:
-
-<details>
-<summary>If you don't have WinRAR</summary>
-
-Right-click the .zip file and click **Extract All…**
-
-Then open the extracted folder, select all of the files and drag them onto the floating icon.
-
-After you've done that, right click the floating icon, and click **Restart Steam**. If you don't have Steam open already, select **Launch Steam**.
-
-</details>
-<details>
-<summary>If you have WinRAR</summary>
-
-Open the .zip file, select all of the files and drag them onto the floating icon.
-
-After you've done that, right click the floating icon, and click **Restart Steam**. If you don't have Steam open already, select **Launch Steam**.
-
-</details>
+### 3. Drag the .lua file onto the floating icon
 
 ### Congrats!
 If you've followed all of the steps correctly, you should have the game in your Steam Library, available to download.

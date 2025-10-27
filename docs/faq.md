@@ -15,16 +15,16 @@ It's a tool developed by chinese hackers used for injecting Lua & Manifest files
 </details>
 
 <details>
-<summary>What are the Lua & Manifest files for?</summary>
+<summary>Can my Steam account get banned?</summary>
 
-They are files that contain game license data.
+No. The games you add with SteamTools are fully client-side, and are not visible to Steam servers.
 
 </details>
 
 <details>
-<summary>Can my Steam account get banned?</summary>
+<summary>Can I play multiplayer games?</summary>
 
-No. The games you add with SteamTools are fully client-side, and are not visible to Steam servers.
+Yes, but you need to install an online fix. [More info]([/beginners_guide/playing_multiplayer_games])
 
 </details>
 
