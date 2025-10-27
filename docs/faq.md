@@ -24,7 +24,7 @@ No. The games you add with SteamTools are fully client-side, and are not visible
 <details>
 <summary>Can I play multiplayer games?</summary>
 
-Yes, but you need to install an online fix. [More info]([/beginners_guide/playing_multiplayer_games])
+Yes, but you need to install an online fix. [More info](/beginners_guide/playing_multiplayer_games)
 
 </details>
 
