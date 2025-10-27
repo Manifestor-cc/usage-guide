@@ -33,7 +33,7 @@ Like so:
 Sadly, the bypass won't work for your game.
 </details>
 
-### 5. [Download](https://files.catbox.moe/bidh37.zip) the patched .dll file
+### 5. [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1761592838589-EZMBg8107gvF.dll) the patched .dll file
 
 ### 6. Drag the file into the game's folder
 Open the game's folder ([How to open Steam game's folder?](/extras/opening_a_steam_games_folder)), and drag the file you downloaded into the game's folder. When a window like this pops up:
