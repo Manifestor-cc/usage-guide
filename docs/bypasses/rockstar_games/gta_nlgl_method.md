@@ -27,3 +27,7 @@ If you've followed all of the steps correctly, you should be able to play GTA IV
 
 Click on the Steam logo in the top left corner and click on Go Offline, then just start the game normally via the Steam Library.
 :::
+
+:::note
+If you're on the Enhanced version of GTA V and this didn't work, you can try the [RAR bypass](/bypasses/rockstar_games/gtav_zip_method) instead.
+:::
