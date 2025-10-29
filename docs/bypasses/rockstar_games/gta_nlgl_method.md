@@ -6,7 +6,7 @@ description: ""
 ---
 
 :::note
-If you're on the Enhanced version of GTA V, this method will not work for you. You can try the [RAR bypass](/bypasses/rockstar_games/gtav_zip_method) instead.
+If you're on the Enhanced version of GTA V, this method will not work for you. You can try the [RAR bypass](/bypasses/rockstar_games/gtav_rar_method) instead.
 :::
 
 # GTA V (Legacy)/IV
