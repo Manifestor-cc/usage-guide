@@ -5,7 +5,7 @@ pagination_prev: null
 pagination_next: null
 ---
 
-# Bypasses
+# Bypasses/Fixes
 Some games have their own anti-piracy protection, but luckily we have bypasses for those!
 
 :::warning

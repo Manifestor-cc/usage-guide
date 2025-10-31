@@ -1,11 +1,11 @@
 ---
-slug: /bypasses/rockstar_games
-pagination_prev: bypasses/index
+slug: /bypasses/rockstar_games/gta
+pagination_prev: bypasses/rockstar_games/index
 pagination_next: null
 custom_edit_url: null
 ---
 
-# Rockstar Games
+# Grand Theft Auto
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
