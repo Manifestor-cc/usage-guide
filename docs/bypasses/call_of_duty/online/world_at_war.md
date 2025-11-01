@@ -10,7 +10,9 @@ description: ""
 ### 1. [Download](https://cdn.plutonium.pw/updater/plutonium.exe) the Plutonium Launcher
 
 ### 2. [Create an account](https://forum.plutonium.pw/register) on the Plutonium forums and log into it in the Launcher
-Make sure that you activate your account via your e-mail.
+:::warning
+Make sure you activate your account via your e-mail.
+:::
 
 ### 3. Click on T4 Multiplayer in the sidebar and click Setup
 

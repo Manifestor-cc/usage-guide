@@ -11,3 +11,4 @@ custom_edit_url: null
 import DocCardList from '@theme/DocCardList';
 
 <DocCardList />
+```

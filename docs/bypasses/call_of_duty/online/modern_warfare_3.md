@@ -10,7 +10,9 @@ description: ""
 ### 1. [Download](https://cdn.plutonium.pw/updater/plutonium.exe) the Plutonium Launcher
 
 ### 2. [Create an account](https://forum.plutonium.pw/register) on the Plutonium forums and log into it in the Launcher
-Make sure that you activate your account via your e-mail.
+:::warning
+Make sure you activate your account via your e-mail.
+:::
 
 ### 3. Click on IW5 Multiplayer in the sidebar and click Setup
 
@@ -18,7 +20,7 @@ Make sure that you activate your account via your e-mail.
 [How to open Steam game's folder?](/extras/opening_a_steam_games_folder)
 
 ### Congrats!
-If you've followed all of the steps correctly, you should be able to play Modern Warfare 3 (2011)
+If you've followed all of the steps correctly, you should be able to play Modern Warfare 3 (2011).
 
 :::important
 **Do not** launch the game from your Steam library. Launch it from the Plutonium Launcher.
