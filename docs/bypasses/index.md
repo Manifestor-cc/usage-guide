@@ -8,8 +8,8 @@ pagination_next: null
 # Bypasses/Fixes
 Some games have their own anti-piracy protection, but luckily we have bypasses for those!
 
-:::warning
-We got these bypasses from third party sources, we did not make them! Basic virus checks were ran on each one, but please use them cautiously - do not disable your antivirus if it detects something!
+:::danger
+We got all of these bypasses from third party sources, we did not make them! Use them cautiously - do not disable your antivirus if it detects something!
 :::
 
 :::note
