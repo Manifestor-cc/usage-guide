@@ -1,5 +1,4 @@
 ---
-sidebar_position: 1
 slug: /bypasses/call_of_duty/online
 pagination_prev: bypasses/call_of_duty/index
 pagination_next: null
