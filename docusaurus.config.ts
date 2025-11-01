@@ -56,8 +56,7 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/Manifestor-cc/usage-guide/tree/main/',
-          routeBasePath: '/', // Docs-only mode
-          showLastUpdateTime: true
+          routeBasePath: '/' // Docs-only mode
         },
         blog: false, // Disable blog for docs-only mode
         theme: {
