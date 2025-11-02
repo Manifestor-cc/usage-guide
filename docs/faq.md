@@ -36,21 +36,45 @@ Yes, but you need to install an online fix. [More info](/beginners_guide/playing
 </details>
 
 <details>
-<summary>What's Denuvo Anti-Tamper? Can I bypass it?</summary>
+<summary>How to fix the “Content Configuration Unavailable” error?</summary>
 
-> What's Denuvo Anti-Tamper?
-
-Denuvo Anti-Tamper is a DRM (digital rights management) system used in PC games to prevent piracy. It works by encrypting the game's code and constantly checking if it's been modified or cracked. The system requires online verification to confirm you bought the game legitimately.
-> Can I bypass it?
-
-There is currently no known public bypass for Denuvo, BUT most game publishers remove Denuvo from their games eventually (because it costs them a lot of money).
+Go to `C:\Program Files (x86)\Steam\appcache` and delete the `appinfo.vdf` file.
 
 </details>
 
 <details>
-<summary>How to fix the “Content Configuration Unavailable” error?</summary>
+<summary>Why is an error like this popping up when I start the game? What's Denuvo Anti-Tamper? ![](images/denuvo.png)</summary>
 
-Go to `C:\Program Files (x86)\Steam\appcache` and delete the `appinfo.vdf` file.
+If you're seeing this error when launching a game, forget about playing that game for free. It means that the game has Denuvo Anti-Tamper, which doesn't have any public (universal) bypasses.
+
+<details>
+<summary>What's Denuvo Anti-Tamper?</summary>
+
+Denuvo Anti-Tamper is a digital anti-piracy technology used in PC video games.
+
+It's designed to make it much harder and slower for pirates/crackers like us to crack or reverse-engineer a game's executable file.
+
+It works by encrypting and obfuscating parts of the game's code, acting as a protective layer around the game's existing Digital Rights Management (DRM) system (like Steam's or Origin's).
+</details>
+
+</details>
+
+<details>
+<summary>Why are the games I add with SteamTools not appearing in my library?</summary>
+
+This is a common issue and there are two possible solutions for it.
+
+
+## Solution 1
+Use a VPN like   [ProtonVPN](<https://protonvpn.com/>)
+
+## Solution 2
+
+It may also happen if Steam decides to switch you to the Beta version of the client (this is really rare though). Run this command in your terminal to switch back to the Stable version of Steam:
+
+```powershell
+Start-Process -FilePath (Join-Path ((Get-ItemProperty "HKLM:\SOFTWARE\WOW6432Node\Valve\Steam").InstallPath) "Steam.exe") -ArgumentList "-clearbeta"
+```
 
 </details>
 

@@ -15,7 +15,7 @@ description: ""
 :::
 
 :::info
-The Linux SteamTools installation guide is a WIP.
+The Linux SteamTools installation guide is a WIP. [Help us write this!](https://github.com/Manifestor-cc/usage-guide/issues/5)
 :::
 
 Use [PortProton](https://flathub.org/en/apps/ru.linux_gaming.PortProton) to run SteamTools & Steam

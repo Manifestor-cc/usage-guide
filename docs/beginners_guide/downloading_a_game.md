@@ -5,13 +5,15 @@ description: ""
 
 # Downloading a game
 
-### 1. Generate the Manifest & Lua files
+### 1. Download the .lua file
 
-:::warning
+:::danger
 The website contains ads, be careful to not click on any malicious ones!
 :::
 
-Open [Manifestor.cc](https://manifestor.cc), search for your game name, and click Generate. After the generation has finished, go to the next step.
+1. Open [Manifestor.cc](https://manifestor.cc) 
+2. Search for the game you want to add to your Steam Library for free
+3. Click Download
 
 ### 2. Open SteamTools
 
@@ -32,4 +34,4 @@ Right click it, and select **Display Floating Window**.
 ### 3. Drag the .lua file onto the floating icon
 
 ### Congrats!
-If you've followed all of the steps correctly, you should have the game in your Steam Library, available to download.
+If you've followed all of the steps correctly, you should now have the game in your Steam Library, available to download for free.

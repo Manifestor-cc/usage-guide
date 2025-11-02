@@ -7,7 +7,7 @@ description: ""
 If you want to play games like Schedule I, R.E.P.O. or others with friends, you have to install an Online Fix.
 
 :::info
-This will not work for games with matchmaking.
+This will not work for games with matchmaking. (There are some exceptions though)
 :::
 
 ### 1. Open & setup [Online-Fix](https://online-fix.me/)

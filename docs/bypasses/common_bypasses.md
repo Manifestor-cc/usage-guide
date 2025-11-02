@@ -2,7 +2,7 @@
 sidebar_position: 1
 pagination_prev: bypasses/index
 pagination_next: null
-description: "Bypasses that have the same installation method"
+description: "Most of the bypasses/fixes are located here"
 ---
 
 # Common bypasses/fixes

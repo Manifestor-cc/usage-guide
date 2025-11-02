@@ -4,9 +4,9 @@ description: ""
 ---
 
 # Removing a game
-If you want to remove a game from your library installed with SteamTools, you have to use our Steam Games Remover.
+If you want to remove a game from your library installed with SteamTools, you'll have to use the Game Remover.
 
-### 1. [Download](https://github.com/Manifestor-cc/game-remover/releases/latest/download/game-remover.exe) and run the remover
+### 1. [Download](https://github.com/Manifestor-cc/game-remover/releases/latest/download/game-remover.exe) and run the program
 
 :::note
 **The Game Remover is open-source!** [Check it out on GitHub](https://github.com/Manifestor-cc/game-remover/)
