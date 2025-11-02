@@ -91,11 +91,6 @@ const config: Config = {
           position: 'left'
         },
         {
-          href: 'https://bsky.app/profile/manifestor.cc',
-          position: 'right',
-          className: 'header-bluesky-link'
-        },
-        {
           href: 'https://discord.gg/manifestorcc',
           position: 'right',
           className: 'header-discord-link'
