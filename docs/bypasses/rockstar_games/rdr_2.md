@@ -6,6 +6,9 @@ description: ""
 ---
 
 # Red Dead Redemption 2
+:::note
+We recommend using the new bypass/fix, which you'll find in the [Common bypasses/fixes page](/bypasses/common_bypasses).
+:::
 
 ### 1. [Download](https://github.com/onajlikezz/Nightlight-Game-Launcher/releases/download/NLLauncherV4/NLGL.exe) and open NLGL
 
