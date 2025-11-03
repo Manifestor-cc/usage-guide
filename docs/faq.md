@@ -66,7 +66,7 @@ This is a common issue and there are two possible solutions for it.
 
 
 ## Solution 1
-Use a VPN like   [ProtonVPN](<https://protonvpn.com/>)
+Use a VPN like [ProtonVPN](<https://protonvpn.com/>)
 
 ## Solution 2
 

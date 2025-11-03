@@ -94,13 +94,11 @@ To bypass the download & speed limit for pixeldrain, use [this tool](https://pix
 </details>
 
 <details>
-<summary>EA Games **(EA SPORTS FC™ fixes now available!)**</summary>
+<summary>EA Games</summary>
 
 | Name | Download |
 |------|----------|
 | [Plants vs. Zombies™: Replanted](https://store.steampowered.com/app/3654560/Plants_vs_Zombies_Replanted/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1761661468376-VnULezKIznCO.zip) |
-| 🎯 [EA SPORTS FC™ 26](https://store.steampowered.com/app/3405690/EA_SPORTS_FC_26/) | [Download](https://i.sobakin.tech/api/files/download?objectName=cmh4y3oq40000pu09qh2eonah%2F1762103627019-3cQR07IXt4ev.zip) |
-| [EA SPORTS FC™ 25](https://store.steampowered.com/app/2669320/EA_SPORTS_FC_25/) | Download |
 
 </details>
 
@@ -158,7 +156,7 @@ To bypass the download & speed limit for pixeldrain, use [this tool](https://pix
 3. Select all of the files and drag them into the game's folder
 4. If a window as shown below pops up, click **Replace the file in the destination**. It may appear multiple times.
 
-![Replace files dialog](images/c3956f7a-c018-448b-9e02-973d28ed04c0-1.png)
+![](images/c3956f7a-c018-448b-9e02-973d28ed04c0-1.png)
 
 ## Congrats!
 

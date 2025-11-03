@@ -1,6 +1,4 @@
 ---
-sidebar_position: 1
-slug: /bypasses
 pagination_prev: null
 pagination_next: null
 ---
@@ -15,6 +13,10 @@ We got all of these bypasses from third party sources, we did not make them! Use
 :::note
 We haven't tested if these work, and we won't be able to help you with them.
 :::
+
+If a game's bypass/fix uses the standard installation process (just extracting files into the game directory), you'll find it listed under [Common bypasses/fixes](/bypasses/common_bypasses).
+
+Games that require a unique or specialized installation method have their own dedicated pages (which you'll find below).
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
