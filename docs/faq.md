@@ -86,3 +86,14 @@ Start-Process -FilePath (Join-Path ((Get-ItemProperty "HKLM:\SOFTWARE\WOW6432Nod
 This is completely normal, it's supposed to be like that. Just import that one single .lua file into SteamTools.
 
 </details>
+
+<details>
+<summary>What does `DRM/Restrictions detected` mean?</summary>
+
+One of the following is present in the game:
+- 3rd-party DRM (Like Denuvo Anti-Tamper)
+- 3rd-party account (Like EA)
+- Kernel level anti-cheat
+
+BUT some games might have a bypass made for them. [More info](/bypasses)
+</details>
