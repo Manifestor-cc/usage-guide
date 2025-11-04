@@ -27,11 +27,15 @@ Copy the path above and paste it into the top bar.
 
 </details>
 
-### 3. Open SteamDB and find your game's AppID
+### 3. Retrieve the AppID
+1. Search for the game you want to remove on Steam ([Open Steam Store search](https://store.steampowered.com/search?term=   ))
+2. Click on the game in the search results
+3. Copy the AppID from the URL: https<></>://store.steampowered.com/app/<u>**70**</u>/HalfLife/ (the underlined part)
 
-### 4. Paste the AppID and click Delete Game
-
-### 5. Restart Steam through SteamTools
+### 4. Remove the game from your library
+1. Paste the AppID in the "Enter game ID" field
+2. Click on the Delete Game button
+3. Restart Steam through SteamTools
 
 ### Congrats!
 If you've followed all of the steps correctly, you should have removed the game from your Steam Library.
