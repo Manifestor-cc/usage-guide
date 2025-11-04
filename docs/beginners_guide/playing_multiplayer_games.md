@@ -4,7 +4,7 @@ description: ""
 ---
 
 # Playing multiplayer games
-If you want to play games like Schedule I, R.E.P.O. or others with friends, you have to install an Online Fix.
+If you want to play games like Schedule I, R.E.P.O. or others with friends, you'll have to install an Online Fix.
 
 :::info
 This will not work for games with matchmaking. (There are some exceptions though)
