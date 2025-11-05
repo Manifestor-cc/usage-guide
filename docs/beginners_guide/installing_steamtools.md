@@ -20,7 +20,7 @@ description: ""
 :::note
 The PortProton window may dissapear entirely for a minute, just give it a moment.
 :::
-4. Once the "Choices" window pops up, just click CREATE SHORTUCT
+4. Once the "Choices" window pops up, just click CREATE SHORTCUT
 5. On the second popup, click LAUNCH. Wait until the Steam login window pops up
 6. Login with your Steam account
 7. [Download the SteamTools installer](https://steamtools.net/res/st-setup-1.8.17r2.exe)
