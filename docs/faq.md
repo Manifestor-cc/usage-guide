@@ -24,7 +24,7 @@ No. The games you add with SteamTools are fully client-side, and are not visible
 <details>
 <summary>Does Steam Cloud work?</summary>
 
-Yes, but it doesn't use the official Steam servers (as far as we know)
+Yes, but it's pretty buggy - doesn't always work and is known to lose saves.
 
 </details>
 
