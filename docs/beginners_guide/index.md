@@ -4,7 +4,7 @@ pagination_prev: null
 ---
 
 # Beginner's Guide
-This guide will teach you the basic stuff about Manifestor.cc and SteamTools
+This guide will teach you the basics of Manifestor.cc and SteamTools
 
 <details>
 <summary>Video tutorial <u>**(recommended)**</u></summary>

@@ -31,14 +31,14 @@ Yes, but it's pretty buggy - doesn't always work and is known to lose saves.
 <details>
 <summary>Can I play multiplayer games?</summary>
 
-Yes, but you need to install an online fix. [More info](/beginners_guide/playing_multiplayer_games)
+Yes, but you need to install an Online-Fix. [More info](/beginners_guide/playing_multiplayer_games)
 
 </details>
 
 <details>
-<summary>How to fix the “Content Configuration Unavailable” error?</summary>
+<summary>Can I use the workshop?</summary>
 
-Go to `C:\Program Files (x86)\Steam\appcache` and delete the `appinfo.vdf` file.
+No, you can't use the workshop directly like with your purchased games.
 
 </details>
 
@@ -60,13 +60,20 @@ It works by encrypting and obfuscating parts of the game's code, acting as a pro
 </details>
 
 <details>
+<summary>How to fix the “Content Configuration Unavailable” error?</summary>
+
+Go to `C:\Program Files (x86)\Steam\appcache` and delete the `appinfo.vdf` file.
+
+</details>
+
+<details>
 <summary>Why are the games I add with SteamTools not appearing in my library?</summary>
 
 This is a common issue and there are two possible solutions for it.
 
 
 ## Solution 1
-Use a VPN like [ProtonVPN](<https://protonvpn.com/>)
+Use a VPN (if you don't have one, use [UrbanVPN](https://www.urban-vpn.com/))
 
 ## Solution 2
 

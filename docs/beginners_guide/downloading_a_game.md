@@ -8,10 +8,6 @@ description: ""
 ### 1. Download the .lua file
 
 1. Open [Manifestor.cc](https://manifestor.cc) 
-:::danger
-The website contains ads, be careful to not click on any malicious ones!
-:::
-
 2. Search for the game you want to add to your Steam Library for free
 3. Click Download
 

@@ -17,7 +17,7 @@ After it's done caching, you’ll see a list of all available DLCs for your sele
 Wait for the process to complete.
 
 :::note
-Your DLCs will **not** appear inside Steam. They will only show up **in-game**.
+Your DLCs will **not** appear inside Steam. They will only show up in-game.
 :::
 
 ### Congrats!

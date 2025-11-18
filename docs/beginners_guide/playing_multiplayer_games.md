@@ -18,6 +18,10 @@ This will not work for games with matchmaking. (There are some exceptions though
 ### 2. Find your game
 Find the multiplayer game you want to play.
 
+:::note
+If you're unable to find your game, that means there's no Online-Fix available for it. And no, there is no other way to play online.
+:::
+
 When you've found your game, scroll down until you see the Download buttons. Click on the **Download from Online-fix Hosters** button, and the download page will open. Select the file that has the following name: `[Game Name]_Fix_Repair_Steam_V[Something]_Generic.rar`
 
 ### 3. Download WinRAR
