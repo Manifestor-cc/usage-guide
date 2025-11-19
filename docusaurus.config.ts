@@ -103,45 +103,22 @@ const config: Config = {
       ],
     },
     footer: {
-      // style: 'dark',
-      // links: [
-      //   {
-      //     title: 'Docs',
-      //     items: [
-      //       {
-      //         label: 'Tutorial',
-      //         to: '/intro',
-      //       },
-      //     ],
-      //   },
-      //   {
-      //     title: 'Community',
-      //     items: [
-      //       {
-      //         label: 'Stack Overflow',
-      //         href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-      //       },
-      //       {
-      //         label: 'Discord',
-      //         href: 'https://discordapp.com/invite/docusaurus',
-      //       },
-      //       {
-      //         label: 'X',
-      //         href: 'https://x.com/docusaurus',
-      //       },
-      //     ],
-      //   },
-      //   {
-      //     title: 'More',
-      //     items: [
-      //       {
-      //         label: 'GitHub',
-      //         href: 'https://github.com/facebook/docusaurus',
-      //       },
-      //     ],
-      //   },
-      // ],
-      copyright: `Copyright © ${new Date().getFullYear()} Manifestor.cc`,
+      style: 'dark',
+      links: [
+        {
+          items: [
+            {
+              label: 'Terms of Service',
+              href: 'https://manifestor.cc/#termsofservice',
+            },
+            {
+              label: 'Privacy Policy',
+              href: 'https://manifestor.cc/#privacypolicy',
+            },
+          ],
+        }
+      ],
+      copyright: `© ${new Date().getFullYear()} Manifestor.cc. All rights reserved (hypothetically)`,
     },
     prism: {
       theme: prismThemes.github,
